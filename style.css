@@ -1,0 +1,22 @@
+html{
+    background: rgb(255, 240, 245);
+}
+#about-me{
+    margin: auto;
+    width: 50%;
+    padding: 100pt;
+    text-align: center;
+    color: rgb(251, 161, 183);
+    font-family: 'Libre Baskerville', serif;
+    border: 5px solid white;
+    text-transform: capitalize;
+}
+
+#my-story{
+    text-align: end;
+}
+
+#linkedin{
+    text-align: end;
+    margin: 30px;
+}
